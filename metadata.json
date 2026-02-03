@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Mining Dashboard",
+  "description": "A sophisticated dark-mode dashboard for tracking crypto mining production with real-time BTC price conversion to USD and BRL, featuring persistence and dynamic history management.",
+  "requestFramePermissions": []
+}
