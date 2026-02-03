@@ -18,8 +18,8 @@ import {
   LogIn
 } from 'lucide-react';
 import { MiningLog, CryptoPrices, StatusType, Investor, TeamWithdrawal } from './types';
-import { fetchBtcPrices } from './services/api';
-import { auth, db, googleProvider } from './services/firebase';
+import { fetchBtcPrices } from './services/api.ts';
+import { auth, db, googleProvider } from './services/firebase.ts';
 import { 
   signInWithPopup, 
   onAuthStateChanged, 
